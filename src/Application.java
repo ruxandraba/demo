@@ -1,5 +1,5 @@
 public class Application {
 
-  private static String name = "NUME_1";
+  private static String name = "NUME_2";
 
 }
