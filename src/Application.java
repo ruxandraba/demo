@@ -1,6 +1,6 @@
 public class Application {
 
   private static String name = "NUME";
-  private static String nameMaster = "MASTER";
+  private static String nameMaster = "MASTER2";
 
 }
